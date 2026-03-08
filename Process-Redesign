@@ -47,17 +47,14 @@
             <div class="case-section">
                 <h2>The Problem</h2>
                 <p>The existing operational workflow lacked a clearly defined process structure, leading to inefficiencies in how teams handled operational activities. Multiple teams relied on manual interventions and fragmented process steps, which created delays, inconsistencies, and operational bottlenecks.</p>
-                <p>CLSA needed a system that could handle complex multi-party arrangements across global markets — and they needed it built from scratch.</p>
+                <p>Additionally, there was limited visibility into the AS-IS process flow, making it difficult for stakeholders to identify process gaps, inefficiencies, and opportunities for improvement.</p>
             </div>
 
             <div class="case-section">
                 <h2>What I Did</h2>
-                <p>I owned this product end-to-end:</p>
+                <p>My Role:</p>
                 <ul class="case-list">
-                    <li><strong>Discovery:</strong> Spent weeks with traders, ops, and compliance to understand the problem deeply</li>
-                    <li><strong>Definition:</strong> Wrote the specs, mapped the workflows, defined edge cases</li>
-                    <li><strong>Delivery:</strong> Ran sprints, prioritized the backlog, unblocked the team</li>
-                    <li><strong>Deployment:</strong> Coordinated UAT, managed change, supported go-live</li>
+                    <li><strong>Discovery:</strong> Analyzed the existing AS-IS operational workflow, identified inefficiencies, and collaborated with operations and technology teams to redesign the TO-BE process flow, enabling a more structured and efficient operational process.</li>
                 </ul>
             </div>
 
